@@ -1,5 +1,9 @@
 # dotfiles-windows
 
+## Install Cmder
+* Download [Cmder](http://cmder.net/)
+* Unzip to C:\Cmder
+
 ## Install Chocolatey on Windows 10
 
 First, you have to **run Powershell as administrator**. Then type the following:
