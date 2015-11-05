@@ -16,9 +16,14 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
 
 Try typing `choco` to see all the available commands.
 
-## Install Git
+### Install Git
 
 To install `git` and add it to our path:
 ```sh
 choco install git -params '"/GitOnlyOnPath"' -y
+```
+
+### Install Cmder
+```sh
+choco install cmder -pre -y
 ```
