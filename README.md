@@ -20,5 +20,5 @@ Try typing `choco` to see all the available commands.
 
 To install `git` and add it to our path:
 ```sh
-choco install git.install -params '"/GitOnlyOnPath"' -y
+choco install git -params '"/GitOnlyOnPath"' -y
 ```
